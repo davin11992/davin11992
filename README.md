@@ -24,7 +24,7 @@
 
 <br/>
 
-📬 Contact Me
+📬 Contact
 
 <p >
   <a href="https://vxxin.tistory.com/" target="_blank">
