@@ -33,7 +33,7 @@
   <a href="mailto:davin11992@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/%EB%8B%A4%EB%B9%88-%EC%9D%B4-198161216/" target="_blank">
+  <a href="https://www.linkedin.com/in/davin-leee/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
   </a>
 </p>
