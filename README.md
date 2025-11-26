@@ -3,7 +3,7 @@
 <div align=center>
 <h3>반갑습니다! 이다빈입니다. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
 
-협업하고 싶은 백엔드 개발자가 되려고 합니다.
+결정한 목표를 반드시 현실로 실현해내는 백엔드 개발자가 되고자 합니다.
 </h3>
 
 
