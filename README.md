@@ -17,14 +17,6 @@
 
 <br/>
 
-## 📋 Activities
-
-- 멋쟁이사자처럼 서강대학교 12기 (2024.04 ~ 2025.01)
-- 프로그래머스 데브코스 : 클라우드 기반 백엔드 엔지니어링 9기 (2026.01 ~ 2026.06)
-- 삼성 SW‧AI 아카데미 SSAFY 16기 (2026.07 ~ )
-
-<br/>
-
 ## 📚 Tech Stack
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" alt="Java">
@@ -44,6 +36,14 @@
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana">
 
 <br/>
+<br/>
+
+## 📋 Activities
+
+- 멋쟁이사자처럼 서강대학교 12기 (2024.04 ~ 2025.01)
+- 프로그래머스 데브코스 : 클라우드 기반 백엔드 엔지니어링 9기 (2026.01 ~ 2026.06)
+- 삼성 SW‧AI 아카데미 SSAFY 16기 (2026.07 ~ )
+  
 <br/>
 
 ## 📬Contact
