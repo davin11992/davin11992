@@ -1,15 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Davin's%20GitHub&fontSize=42" />
-
-<div align="center">
+<div align="left">
 
 <h3>
   반갑습니다! 이다빈입니다.
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
-  <br/>
-  금융 문제를 해결하는, 협업하고 싶은 개발자가 되고자 합니다.
 </h3>
 
-📚 Languages / Library / Tools 📚
+<br/>
+
+## 📝 Introduce
+
+데이터 정합성과 서버 안정성을 최우선으로 개발하는 개발자 이다빈입니다.
+
+동시성 문제와 장애 상황을 사전에 검증하고, 근거 있는 구조 개선으로 성능과 안정성을 모두 잡는 것을 목표로 합니다.
+
+빠르게 발전하는 기술 환경에서도 꾸준히 학습하며 유연하게 성장하고자 합니다.
+
+<br/>
+
+## 📋 Activities
+
+- 멋쟁이사자처럼 서강대학교 12기 (2024.04 ~ 2025.01)
+- 프로그래머스 데브코스 : 클라우드 기반 백엔드 엔지니어링 9기 (2026.01 ~ 2026.06)
+- 삼성 SW‧AI 아카데미 SSAFY 16기 (2026.07 ~ )
+
+<br/>
+
+## 📚 Tech Stack
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" alt="C">
@@ -18,12 +34,10 @@
 <img src="https://img.shields.io/badge/CSS-239120?style=flat&logo=CSS&logoColor=white" alt="CSS">
 
 <br/>
-<br/>
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React">
 
-<br/>
 <br/>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL">
@@ -31,9 +45,8 @@
 
 <br/>
 <br/>
-<br/>
 
-📬 Contact
+## 📬Contact
 
 <p>
   <a href="https://vxxin.tistory.com/" target="_blank">
